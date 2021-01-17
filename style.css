@@ -1,0 +1,28 @@
+thead{
+    background-color: #427fef;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
+
+table{
+   border: 1px solid #c4dcf3;
+
+}
+
+
+tfoot{
+    background-color:#427fef ;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
+
+th, td{
+    padding: 10px;
+    text-align: left;
+}
+
+ tbody:nth-child(odd){
+    background-color: #eef7ff;
+}  
